@@ -1,1 +1,2 @@
 hello i am file2
+3*2=6
